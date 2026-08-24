@@ -1,16 +1,14 @@
-## Hi there 👋
+# Yo, tis is Vishruth
 
-<!--
-**MittaSaiVishruth/MittaSaiVishruth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=32&pause=1000&width=435&lines=sheep+are+fluffy+goats;" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
+I’m a **Data Science and Artificail Intelligence Student ** who builds things, breaks them for the plot, and then fixes them with 27 browser tabs and sheer willpower. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🧠 **Status:** killing | 🧰 **Mode:** Tinkering | 🎯 **Goal:** Peak productivity
+
+---
+
+### the tech i decided to explore
+
+- | `Languages `| Python      • Dart             • JavaScript 
+- | `Frontend  `| React • Next.js     • Flutter          
