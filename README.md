@@ -31,13 +31,10 @@ I like taking weird ideas, overengineering them a little, and eventually turning
 #  who am i?
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                    VISH RUTH.EXE                    │
-├─────────────────────────────────────────────────────┤
+ ─────────────────────────────────────────────────────
 │                                                     │
-│  B.Tech — Data Science & Artificial Intelligence    │
-│  IIIT Dharwad                                       │
-│                                                     │
+│   B.Tech — Data Science & Artificial Intelligence   │
+│   IIIT Dharwad                                      │
 │   AI / ML enthusiast                                │
 │   Python-first developer                            │
 │   Agentic AI explorer                               │
@@ -47,7 +44,7 @@ I like taking weird ideas, overengineering them a little, and eventually turning
 │   Professional "let me try this" person             │
 │                                                     │
 └─────────────────────────────────────────────────────┘
-
+```
 highlights
 <div align="center">
 
