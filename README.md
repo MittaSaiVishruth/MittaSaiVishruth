@@ -50,50 +50,8 @@ highlights
 
 	
 	B.Tech — Data Science & Artificial Intelligence, IIIT Dharwad
-	Team IndrA — Sovereign Agentic AI Workbench
 	Google Cloud Facilitator Program
-	Google Cloud Document AI Challenge Lab — 100/100
-	Google × Kaggle Vibe Coding Participant
 
-
-</div>
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Vishruth&show_icons=true&hide_border=true&theme=transparent&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&rank_icon=github"
-alt="GitHub Stats"
-/>
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishruth&layout=compact&hide_border=true&theme=transparent&title_color=00ff88&text_color=c9d1d9"
-alt="Top Languages"
-/>
-</div>
-
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=Vishruth&theme=transparent&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"
-alt="GitHub Streak"
-/>
-</div>
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Vishruth&bg_color=00000000&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true"
-alt="Contribution Graph"
-/>
-</div>
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=Vishruth&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1"
-alt="GitHub Trophies"
-/>
-</div>
 
 let's connect
 Interested in:
